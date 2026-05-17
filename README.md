@@ -11,6 +11,8 @@ The objective was to design robust logic and a data model capable of extracting 
   - Business Problem Solving
   - Time-Based Analysis
 
+---
+
 **🚩 Problem Statement:**
 The challenge involved two major analytical problems:
 
@@ -45,6 +47,8 @@ Cost data required classification into: Direct Costs and Indirect Costs
   - Designing robust calculations for edge cases
   - Implementing time-intelligence logic for Cost Analysis & Period Comparison
   - Building reliable insights from imperfect datasets
+
+---
 
 
 **🔗 Dashboard**
