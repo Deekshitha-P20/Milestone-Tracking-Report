@@ -51,6 +51,7 @@ Cost data required classification into: Direct Costs and Indirect Costs
 
 **🔗 Dashboard**
 
-<img width="1669" height="1125" alt="image" src="https://github.com/user-attachments/assets/af89f98b-1e59-4a6f-8b6c-1262dcc1606b" />
+<img width="1669" height="1125" alt="image" src="https://github.com/user-attachments/assets/e524e4e4-b49f-4e0d-a41e-41e54d75ceef" />
+
 
 <img width="1669" height="1125" alt="image" src="https://github.com/user-attachments/assets/a9058b83-a0af-41f0-8b93-c15b197b307c" />
