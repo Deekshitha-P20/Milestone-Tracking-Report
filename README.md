@@ -5,46 +5,46 @@ This project is a solution to a real-world data analytics challenge focused on h
 The objective was to design robust logic and a data model capable of extracting meaningful insights from datasets where key fields (milestones and estimated amounts) contained inconsistencies such as blank or missing values.
 
 **💡 Tools & Skills**
-- Data Modelling
-- DAX / Analytical Logic
-- Data Cleaning & Transformation
-- Business Problem Solving
-- Time-Based Analysis
+  - Data Modelling
+  - DAX / Analytical Logic
+  - Data Cleaning & Transformation
+  - Business Problem Solving
+  - Time-Based Analysis
 
 **🚩 Problem Statement:**
 The challenge involved two major analytical problems:
 
 1. Milestone Tracking Challenge
 Each project consists of multiple milestones. Blank values could indicate either:
-- A pending milestone. Or a non-applicable/skipped milestone.
-- This ambiguity led to incorrect progress calculations.
+  - A pending milestone. Or a non-applicable/skipped milestone.
+  - This ambiguity led to incorrect progress calculations.
 ✅ Goal:
 Accurately determine:
-- The actual number of relevant milestones, and the true project completion stage
+  - The actual number of relevant milestones, and the true project completion stage
 
 2. Estimated Cost Analysis & Period Comparison
 Cost data required classification into: Direct Costs and Indirect Costs
   Required dynamic calculation of:
-- Current Period values
-- Previous Period values
-- Cumulative (To-Date) values
-- All calculations needed to adapt based on user-selected filters (time and status).
+  - Current Period values
+  - Previous Period values
+  - Cumulative (To-Date) values
+  - All calculations needed to adapt based on user-selected filters (time and status).
 
 
 **⚙️ Approach -**
-- Designed logic to differentiate between valid and irrelevant milestones based on milestone sequence and completion patterns
-- Built calculations to determine the last completed milestone and exclude non-applicable entries
-- Implemented business rules for cost categorisation
-- Created time-based dynamic measures for period comparisons
-- Structured the dataset to support accurate and scalable analysis
+  - Designed logic to differentiate between valid and irrelevant milestones based on milestone sequence and completion patterns
+  - Built calculations to determine the last completed milestone and exclude non-applicable entries
+  - Implemented business rules for cost categorisation
+  - Created time-based dynamic measures for period comparisons
+  - Structured the dataset to support accurate and scalable analysis
 
 
 **📊 Key Learnings -**
-- Handling missing vs. non-applicable data scenarios
-- Translating business rules into analytical logic
-- Designing robust calculations for edge cases
-- Implementing time-intelligence logic for Cost Analysis & Period Comparison
-- Building reliable insights from imperfect datasets
+  - Handling missing vs. non-applicable data scenarios
+  - Translating business rules into analytical logic
+  - Designing robust calculations for edge cases
+  - Implementing time-intelligence logic for Cost Analysis & Period Comparison
+  - Building reliable insights from imperfect datasets
 
 
 🔗 Dashboard
