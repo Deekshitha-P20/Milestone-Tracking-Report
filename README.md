@@ -20,8 +20,7 @@ The challenge involved two major analytical problems:
 Each project consists of multiple milestones. Blank values could indicate either:
   - A pending milestone. Or a non-applicable/skipped milestone.
   - This ambiguity led to incorrect progress calculations.
- - ✅ Goal - Accurately determine:
-  - The actual number of relevant milestones, and the true project completion stage
+ - ✅ Goal - Accurately determine the actual number of relevant milestones, and the true project completion stage
 
 2. Estimated Cost Analysis & Period Comparison
 Cost data required classification into: Direct Costs and Indirect Costs
